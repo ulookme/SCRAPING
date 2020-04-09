@@ -1,6 +1,6 @@
 # SCRAPING
 
-#Scrapping Web et DATA
+#Scraping Web et DATA
 
 #excercice de recupération de donné par recolte de balise
 
